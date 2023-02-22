@@ -3,4 +3,4 @@ b = 6
 
 sum = a+b
 
-print('sum')
+print('The sum is: ',sum)
